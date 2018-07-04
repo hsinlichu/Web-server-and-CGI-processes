@@ -7,7 +7,7 @@
 * How to access server info via web browser: http://your_ip:port/info
 
 
-##Functionality:
+## Functionality:
 
 1. In server.c, I use select to do multi-tasking.
 
@@ -19,7 +19,7 @@
 
 
 
-##File detail:
+## File detail:
 
 1. server.c
 2. file_reader.c
